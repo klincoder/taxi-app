@@ -13,4 +13,4 @@ web-build/
 .DS_Store
 
 # environment heys
-.env-keys
+.env
